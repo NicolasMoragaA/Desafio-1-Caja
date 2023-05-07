@@ -1,5 +1,4 @@
 # Desafio-1
-Imagine que ud es un data scientist y le piden que realice un modelo de clasificación binaria utilizando solamente una técnica, dada la urgencia. 
 
 El archivo "PruebaDesafio1Definitivo.ipynb" contiene el modelo realizado para la clasificación binaria utilizada. Se usó la técnica de Gradient Boosting Classifier.
 
